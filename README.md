@@ -11,7 +11,7 @@
 
 ###
 
-<h3 align="left">tech⚙️</h3>
+<h3 align="left">Tech⚙️</h3>
 
 ###
 
