@@ -11,7 +11,7 @@
 
 ###
 
-<img width="2256" height="418" alt="YE333" src="https://github.com/user-attachments/assets/4573ea83-bf2f-4ef9-8739-946282861a84" />
+<img width="2256" height="418" alt="techhhhh" src="https://github.com/user-attachments/assets/6e6d5158-8284-4a5b-8ce0-e05e00beae56" />
 
 ###
 
