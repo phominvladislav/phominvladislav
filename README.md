@@ -11,8 +11,7 @@
 
 ###
 
-<img width="2256" height="418" alt="tect" src="https://github.com/user-attachments/assets/b2778859-8e41-48de-955c-28ce3cbfb4dc" />
-
+<img width="2256" height="418" alt="11ddfdf11" src="https://github.com/user-attachments/assets/f44142f2-d48a-4690-ae60-230a5045f88d" />
 
 ###
 
