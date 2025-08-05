@@ -5,7 +5,7 @@
 <div align="center">
   </a>
   <a href="https://t.me/vpfpnb" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+    <img width="1000" height="572" alt="telegram-icon-with-and-vector-format-for-free-unlimited-gray-world-of-warcraft-transparent-png-2285521" src="https://github.com/user-attachments/assets/1cc61bfd-498d-4372-9483-2ced8dac1c7a" />
   </a>
 </div>
 
@@ -17,3 +17,4 @@
 </div>
 
 ###
+
