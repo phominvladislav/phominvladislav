@@ -12,7 +12,6 @@
 ###
 
 <h3 align="left">⚒︎</h3>
-<p style="font-weight: bold;">⚒︎</p>
 
 ###
 
