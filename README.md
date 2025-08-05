@@ -11,7 +11,7 @@
 
 ###
 
-<h3 align="left">👁️‍🗨️</h3>
+<img width="641" height="173" alt="yer" src="https://github.com/user-attachments/assets/afeb7a6f-f4cb-4914-b2f9-7ec40efaab63" />
 
 ###
 
