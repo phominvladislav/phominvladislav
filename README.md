@@ -5,7 +5,7 @@
 <div align="center">
   </a>
   <a href="https://t.me/vpfpnb" target="_blank">
-    <img width="1000" height="572" alt="telegram-icon-with-and-vector-format-for-free-unlimited-gray-world-of-warcraft-transparent-png-2285521" src="https://github.com/user-attachments/assets/1cc61bfd-498d-4372-9483-2ced8dac1c7a" />
+    <img width="514" height="514" alt="333" src="https://github.com/user-attachments/assets/5fe43e76-9e83-4987-9dd3-83a736710e01" />
   </a>
 </div>
 
@@ -17,4 +17,5 @@
 </div>
 
 ###
+
 
