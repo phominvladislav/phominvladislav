@@ -5,7 +5,7 @@
 <div align="center">
   </a>
   <a href="https://t.me/vpfpnb" target="_blank">
-    <img width="30" height="30" alt="1111" src="https://github.com/user-attachments/assets/47ebb5cd-dd56-4590-b9c4-1e29210644af" />
+    <img width="40" height="40" alt="1111" src="https://github.com/user-attachments/assets/47ebb5cd-dd56-4590-b9c4-1e29210644af" />
   </a>
 </div>
 
